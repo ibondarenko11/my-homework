@@ -47,13 +47,19 @@ table {
 }
 
 /*---------------------------------------------------------*/
+/*background*/
+
+.background {
+    background: #5e824b;
+}
+
 
 /*MAIN PAGE*/
 
 .main_cont {
     text-align: center; 
     color: #3c5148; 
-    background-color: #d5dddf; 
+    background: #d5dddf; 
     margin: 0 auto;
     width: 1200px;
     font-size: 20px;
